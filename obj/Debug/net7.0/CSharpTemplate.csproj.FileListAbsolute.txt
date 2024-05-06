@@ -1,0 +1,14 @@
+/home/ec2-user/environment/CSharpTemplate/bin/Debug/net7.0/CSharpTemplate
+/home/ec2-user/environment/CSharpTemplate/bin/Debug/net7.0/CSharpTemplate.deps.json
+/home/ec2-user/environment/CSharpTemplate/bin/Debug/net7.0/CSharpTemplate.runtimeconfig.json
+/home/ec2-user/environment/CSharpTemplate/bin/Debug/net7.0/CSharpTemplate.dll
+/home/ec2-user/environment/CSharpTemplate/bin/Debug/net7.0/CSharpTemplate.pdb
+/home/ec2-user/environment/CSharpTemplate/obj/Debug/net7.0/CSharpTemplate.GeneratedMSBuildEditorConfig.editorconfig
+/home/ec2-user/environment/CSharpTemplate/obj/Debug/net7.0/CSharpTemplate.AssemblyInfoInputs.cache
+/home/ec2-user/environment/CSharpTemplate/obj/Debug/net7.0/CSharpTemplate.AssemblyInfo.cs
+/home/ec2-user/environment/CSharpTemplate/obj/Debug/net7.0/CSharpTemplate.csproj.CoreCompileInputs.cache
+/home/ec2-user/environment/CSharpTemplate/obj/Debug/net7.0/CSharpTemplate.dll
+/home/ec2-user/environment/CSharpTemplate/obj/Debug/net7.0/refint/CSharpTemplate.dll
+/home/ec2-user/environment/CSharpTemplate/obj/Debug/net7.0/CSharpTemplate.pdb
+/home/ec2-user/environment/CSharpTemplate/obj/Debug/net7.0/CSharpTemplate.genruntimeconfig.cache
+/home/ec2-user/environment/CSharpTemplate/obj/Debug/net7.0/ref/CSharpTemplate.dll
